@@ -1,0 +1,1 @@
+# fastsamu.github.io
