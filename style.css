@@ -72,6 +72,7 @@ ul li a{
 	background-size: cover;
 	background-image: url("background.jpg");
 	padding:180px 0 100px 0;
+	background-position:center;
 }
 
 .banner p {
